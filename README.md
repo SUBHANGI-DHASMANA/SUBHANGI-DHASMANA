@@ -16,7 +16,7 @@
 
 <div align="center">
   <h2>About me</h2>
-  <p>I am student at University School of Automation and Robotics, GGSIPU pursuing Btech in Artificial Intelligence and Data Science. I am a web developer and designer working on software development cell of USICT and USAR. Excited about acquiring new talents and discovering new things.</p>
+  <p>I am student at University School of Automation and Robotics, GGSIPU pursuing Btech in Artificial Intelligence and Data Science. I love to learn something new daily about tech stuffs. I am a software developer working in Software Development Cell under University school of Studies. Currently I am working on my portfolio website. </p>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=subhangi-dhasmana&label=Profile%20views&color=0e75b6&style=flat" alt="subhangi-dhasmana" /> </p>
