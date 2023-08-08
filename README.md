@@ -18,6 +18,7 @@
   <h2>About me</h2>
   <p>I am student at University School of Automation and Robotics, GGSIPU pursuing Btech in Artificial Intelligence and Data Science. I love to learn something new daily about tech stuffs. I am a software developer working in Software Development Cell under University school of Studies.</p>
   <p><a href="https://portfolio-subhangi-dhasmana.vercel.app/" target="_blank">See my portfolio website</a></p>
+  <p><a href="https://drive.google.com/file/d/1iyZk2nrM0de0D04mMBhQork178kpZ_VK/view?usp=sharing" target="_blank">View Resume</a></p>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=subhangi-dhasmana&label=Profile%20views&color=0e75b6&style=flat" alt="subhangi-dhasmana" /> </p>
