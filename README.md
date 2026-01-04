@@ -1,50 +1,97 @@
-<section align="center">
-  <p>Welcome to my page</p>
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hey everyone, I'm Subhangi Dhasmana</h1>
-</section>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="200"/>
+<div align="center">
+  <h1 align="center">Subhangi Dhasmana</h1>
+  <h3 align="center">Data Engineering • Agentic AI • Cloud Architecture</h3>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://twitter.com/SubhangiDhas" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/subhangi-dhasmana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/subhangidhasmana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto: subhangi788@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+  <a href="mailto:subhangi.dhasmana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://portfolio-subhangidhasmanas-projects.vercel.app" target="_blank">
+    <img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
-  <h2>About me</h2>
-  <p>Developer with knowledge of artificial intelligence, cloud computing, and full-stack development. Building smart, scalable solutions with AI and cloud—turning ideas into innovation, one line of code at a time! 🚀</p>
-<!--   <p><a href="https://portfolio-subhangi-dhasmana.vercel.app/" target="_blank">See my portfolio website</a></p> -->
-</div>
+---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=subhangi-dhasmana&label=Profile%20views&color=0e75b6&style=flat" alt="subhangi-dhasmana" /> </p>
+### 🚀 Impact Highlights
 
-<!-- **SUBHANGI-DHASMANA/SUBHANGI-DHASMANA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📉 95%</h3>
+      <p align="center"><strong>Cost Reduction</strong></p>
+      <p align="center">Optimized Text-to-SQL agents (LangGraph), reducing token usage from 20k to 1k per query.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">👥 10,000+</h3>
+      <p align="center"><strong>Users Scaled</strong></p>
+      <p align="center">Built scalable GenAI video tools for small businesses in collaboration with Google AI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ 80%</h3>
+      <p align="center"><strong>Faster Retrieval</strong></p>
+      <p align="center">Reduced latency in Research Paper Q&A using Hybrid Search (Vector + BM25) and caching.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔄 7+</h3>
+      <p align="center"><strong>Sources Integrated</strong></p>
+      <p align="center">Automated ingestion from Amazon, Shopify, & Kapture using Cloud Run & Pub/Sub.</p>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started: -->
+---
 
-<!-- - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning competitive programming
-- 💬 Ask me about web development, git and python
-- 📫 How to reach me: subhangi.dhasmana@gmail.com on mail
-- ⚡ Fun fact: Some programmers prefer tea🍵 to coffee☕ while coding
- -->
+### 🏗️ Stack Trace
+*Core technologies used in production environments.*
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhangi-dhasmana&show_icons=true&theme=vue-dark" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhangi-dhasmana&theme=vue-dark" alt="subhangi-dhasmana" />
-</div>  
+| Domain | Stack |
+| :--- | :--- |
+| **Data Engineering** | ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Airbyte](https://img.shields.io/badge/-Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white) ![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white) |
+| **Cloud (GCP)** | ![Cloud Run](https://img.shields.io/badge/-Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Pub/Sub](https://img.shields.io/badge/-Pub%20Sub-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **AI & LLMs** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-<div align="center">
-  <h2 align="center">Languages and Tools</h3>
-  <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-</div>
+---
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhangi-dhasmana&layout=compact&hide=php&theme=vue-dark" /></p>
+### 📂 Recent Logs (Experience)
 
-<h2 align="center">My contribution in Open Source</h2>
+<details>
+<summary><strong>Data Engineer @ Fitelo (Dec '25 - Present)</strong></summary>
+<br>
+<ul>
+ <li><strong>Agentic AI Optimization:</strong> Upgraded the Text-to-SQL system by migrating from Gemini to <strong>GPT-4o-mini</strong>, significantly improving query generation accuracy while maintaining structured reasoning.</li>
+ <li><strong>ETL Architecture:</strong> Engineered and deployed scalable pipelines to ingest data from various sources to <strong>BigQuery</strong> and <strong>PostgreSQL</strong>.</li>
+ <li><strong>Pipeline Ops & Reliability:</strong> Proactively monitoring and optimizing existing data workflows, utilizing a custom multi-source alerting system (Slack/Teams) to ensure high data availability.</li>
+</ul>
+</details>
 
-[![@subhangi's Holopin board](https://holopin.me/subhangi)](https://holopin.io/@subhangi)
+<details>
+<summary><strong>Data Engineer Intern @ Fitelo (May '25 - Nov '25)</strong></summary>
+<br>
+<ul>
+ <li><strong>Agentic SQL:</strong> Built a dynamic Text-to-SQL system using LangGraph & Gemini. Reduced token costs by 95% while enforcing structured reasoning.</li>
+ <li><strong>Pipeline Automation:</strong> Orchestrated ingestion from Amazon, Shopify, and Kapture using Cloud Run & Pub/Sub.</li>
+ <li><strong>Reliability:</strong> Designed a multi-source alerting system (Slack/Teams) for BigQuery & Sheet integrity.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Customer Engineering Intern @ Google (Jun '24 - Aug '24)</strong></summary>
+<br>
+<ul>
+ <li><strong>Product Scale:</strong> Built a GenAI Marketing Video tool for small businesses, reducing creation time to 2-4 minutes.</li>
+ <li><strong>Architecture:</strong> Collaborated with Google AI teams to deploy scalable infrastructure serving 10k+ users.</li>
+</ul>
+</details>
+
+---
+
+<p align="center">
+  <i>"Optimizing for scale, cost, and reliability."</i>
+</p>
